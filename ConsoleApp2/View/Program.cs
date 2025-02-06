@@ -18,7 +18,6 @@ namespace HospitalEmployees
             key = keymethod();
         }
         //Изменения 2
-        //новая ветка
         private static string keymethod()
         {
             string key;
