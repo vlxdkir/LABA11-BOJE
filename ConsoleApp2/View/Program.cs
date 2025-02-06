@@ -17,7 +17,8 @@ namespace HospitalEmployees
             string key;
             key = keymethod();
         }
-        //Изменения
+        //Изменения 2
+        //новая ветка
         private static string keymethod()
         {
             string key;
