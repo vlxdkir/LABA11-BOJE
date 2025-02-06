@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp2.Models.EmployeeClass" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\EmployeeClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalEmployees.HospitalEmployee" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAgAEAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\HospitalEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalEmployees.Nurse" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Nurse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalEmployees.Surgeon" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Surgeon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalEmployees.Program" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAIAIAAAAAIAAAAAAAAAAAAAAAABBAAAAA=</HashCode>
+      <FileName>View\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
